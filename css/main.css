@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Quicksand, sans-serif;
+    font-size: 18px;
+    background-color:rgb(46, 46, 46);
+    color: white;
+}
+
+.wrapper {
+    margin: 0 4rem;
+}
+
+dd {
+    margin: 0;
+}
+
+img {
+    max-width: 150px;
+    height: auto;
+    float:left;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+
+header, dl {
+    background-color: rgb(173, 113, 53);
+    padding: 1rem;
+}
+h1 {
+    margin: 0;
+}
+
+dl {
+    margin-top: 2rem;
+    clear: both;
+}
+
+dt {
+    font-size: 1.25rem;
+    font-weight: 800;
+}
